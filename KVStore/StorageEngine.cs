@@ -11,7 +11,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 /// <summary>
-/// 
+///  A bitcask inspired key-value append only store
 /// </summary>
 public class StorageEngine : IDisposable
 {

@@ -25,7 +25,7 @@ public class Program
         Console.CancelKeyPress += async (sender, eventArgs) =>
         {
             Console.WriteLine("Shutting down KV store...");
-            eventArgs.Cancel = true; // prevent immediate termination
+            eventArgs.Cancel = true; 
             await networkService.StopAsync();
         };
 
