@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KVStore", "KVStore\KVStore.csproj", "{97737AA2-D816-459A-B152-27EAF3382BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KvStoreTest", "KvStoreTest\KvStoreTest.csproj", "{10645CF6-B68D-4196-82D8-52E59CB19AF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97737AA2-D816-459A-B152-27EAF3382BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97737AA2-D816-459A-B152-27EAF3382BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97737AA2-D816-459A-B152-27EAF3382BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97737AA2-D816-459A-B152-27EAF3382BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10645CF6-B68D-4196-82D8-52E59CB19AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10645CF6-B68D-4196-82D8-52E59CB19AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10645CF6-B68D-4196-82D8-52E59CB19AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10645CF6-B68D-4196-82D8-52E59CB19AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
